@@ -10,7 +10,7 @@ import time
 from DD_TCPClient import TCPClient
 
 # Initialize player TCP client
-client = TCPClient("192.168.2.104", 12345)
+client = TCPClient("", 12345)
 
 # Pygame window setup
 pygame.init()
